@@ -1,2 +1,2 @@
 # MVP-Osanam-GIT
-Repositório público de scripts para comunidade técnica de OPS (Infraestrutura de Tecnologia)
+Repositório público de scripts e infraestrutura como código (IaC) para a comunidade técnica.
