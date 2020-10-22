@@ -35,9 +35,6 @@ if ($acao -eq "start"){
 elseif ($acao -eq "stop") {
     #Stop-VM
     #------------------------------------------------------------------------------------------------------------------------------
-    param ( [string] $VMName,
-	    [string] $RGName )
-
     $connectionName = "AzureRunAsConnection"
     try
     {
