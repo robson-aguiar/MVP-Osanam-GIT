@@ -1,6 +1,6 @@
 # [Start-Stop] Runbook Azure Automaton - Múltiplas VM´s
 
-Para que possamos rodar iniciar e parar múltiplas VM´s precisamos efetuar os seguintes passos:
+Para que possamos iniciar e parar múltiplas VM´s precisamos efetuar os seguintes passos:
 
 1. Criar uma conta no Azure Automation
 2. Criar um Runbook Powershell
