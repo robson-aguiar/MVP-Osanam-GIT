@@ -11,8 +11,8 @@ Para que possamos rodar iniciar e parar múltiplas VM´s precisamos efetuar os s
     <BR>
 
 *    RESOURCENAME
-     <BR>Neste campo você incluirá a relação de VM´s que será ligadas/desligadas.
-     <BR>É necessário adicionar as mesmas no forma de array JSON, pois no Azure Automation entende array´s desta forma conforma exemplo abaixo:
+     <BR>Neste campo você incluirá a relação de VM´s que serão ligadas/desligadas.
+     <BR>É necessário adicionar a relação de vm´s no formato de array JSON, pois no Azure Automation é entendido um array desta forma conforme exemplo abaixo:
      <BR>
      
      <code>['vm01','vm02','vm03']</code>
