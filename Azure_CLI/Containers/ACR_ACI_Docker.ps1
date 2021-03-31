@@ -1,5 +1,5 @@
 ##################################################
-### Trabalhando com git em repositório remotos ###
+### Trabalhando com git em repositórios remotos ###
 ##################################################
 
 # Clonando repositório exemplo
